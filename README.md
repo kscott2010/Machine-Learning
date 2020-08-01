@@ -25,7 +25,7 @@ Python has become a leading language for data analysis and machine learning than
 **Textbook**: 
 * Aurélien Géron, [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Publisher: O'Reilley Media, Inc. ISBN: 9781492032649.
 
-* `Scikit-learn tutorials` Online tutorials 
+* [Scikit-learn tutorials](https://scikit-learn.org)
 
 These above are practical resources emphasizing techniques and examples. 
 
@@ -68,6 +68,6 @@ For a more fundamental treatment of machine learning fundamentals, I recommend r
 13. Nov 16. Neural networks and deep learning.
 14. Nov 23. Gradient descent, backpropagation
 15. Nov 30. Keras, tensorflow, or pytorch
-16. Dec 7 - *Review *
+16. Dec 7 - *Review*
 17. Dec 14 - Final 
 
