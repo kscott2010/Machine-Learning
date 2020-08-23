@@ -6,8 +6,6 @@
 
 Monday 5.30 - 6.45 PM
 
-TA: ---
-
 An overview of the key concepts of machine learning through practical examples and applications. Programming projects will be used for learning techniques, for interpreting results and understanding scaling up from thousands of records to millions/billions
 
 All assignments will be in Python 3.6 or newer with libraries for data analytics: 
