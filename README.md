@@ -23,6 +23,8 @@ Python has become a leading language for data analysis and machine learning than
 **Textbook**: 
 * Aurélien Géron, [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). Publisher: O'Reilley Media, Inc. ISBN: 9781492032649.
 
+* Companion Repo https://github.com/ageron/handson-ml2
+
 * [Scikit-learn tutorials](https://scikit-learn.org)
 
 These above are practical resources emphasizing techniques and examples. 
