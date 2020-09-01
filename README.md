@@ -54,7 +54,7 @@ For a more fundamental treatment of machine learning fundamentals, I recommend r
 (Tentative, subject to change)
 
 1. Aug 24. Artificial Intelligence and Machine Learning. Applications and Examples. Configure development environment.
-2. Aug 31. Operations on numerical arrays, example data sets, visualization
+2. Aug 31. Operations on numerical arrays, example data sets, visualization. [Project 1](A1.md) Due Sep 2
 3. Sep 7 - *Labor Day*
 4. Sep 14. Classification. ROC Analysis.
 5. Sep 21. Regression. 
