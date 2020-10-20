@@ -58,11 +58,11 @@ For a more fundamental treatment of machine learning fundamentals, I recommend r
 3. Sep 7 - *Labor Day*
 4. Sep 14. Classification. ROC Analysis.
 5. Sep 21. Regression. 
-6. Sep 28. Clustering.
+6. Sep 28. Regression.
 7. Oct 5. SVM
 8. Oct 12 - *Fall Break*
-9. Oct 19. Decision trees and random forests.
-10. Oct 26. Model selection, feature selection, cross-validation
+9. Oct 19. Model selection, feature selection, cross-validation. [Regression project Due Oct 29](notebooks/RegressionProject.ipynb)
+9. Oct 26. Random forests.
 11. Nov 2. Regularization. Dimensionality reduction.
 12. Nov 9. Unsupervised learning
 13. Nov 16. Neural networks and deep learning.
